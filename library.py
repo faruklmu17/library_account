@@ -11,3 +11,11 @@ available_books = [
 "Divergent", "Eleanor & Park"
 
 ]
+
+
+class LibraryAccount:
+
+
+    def __init__(self,user_name,available_books,borrowed_books):
+        self.user_name = user_name
+        self.available_books = available_books
