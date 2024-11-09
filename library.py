@@ -21,5 +21,4 @@ class LibraryAccount:
         self.available_books = available_books
 
 
-
 myAccount = LibraryAccount()
